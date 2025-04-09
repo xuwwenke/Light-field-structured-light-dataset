@@ -8,7 +8,7 @@ code: hkfg
 
 ## BibTeX
 If you want to cite our 🤗 Datasets library, you can use our paper：
-Wang L, Xue W, Wang C, et al. LFE-Net: a low-light fringe pattern enhancement method based on convolutional neural networks[J].
+Wang L, Xue W, Wang C, et al. LFE-Net: a low-light fringe pattern enhancement method based on convolutional neural networks[J]. Applied optics, 2025, 64(10):2682-2691.
 
 We are actively creating a new dataset.
 If you have any other questions, please leave a message on GitHub.
