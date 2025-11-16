@@ -1,5 +1,5 @@
 # Light-field-structured-light-dataset
-## LFE-Net
+## 1. LFE-Net
 ### Introduction
 This dataset is used for low-brightness fringe pattern enhancement.
 
@@ -10,8 +10,7 @@ code: hkfg
 ### BibTeX
 If you want to cite our 🤗 Datasets library, you can use our paper：
 Wang L, Xue W, Wang C, et al. LFE-Net: a low-light fringe pattern enhancement method based on convolutional neural networks[J]. Applied optics, 2025, 64(10):2682-2691.
----
-## Depth estimation of single-shot fringe pattern
+## 2. DD-Inceptionv2-UNet
 ### Introduction
 This dataset is used for single-shot fringe pattern depth estimation
 ### Download Link
